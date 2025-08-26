@@ -6,3 +6,5 @@ just test 02
 2 Fetch Test
 
 3 Pull Test
+
+4 Push 2rd
